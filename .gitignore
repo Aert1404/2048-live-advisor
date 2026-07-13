@@ -1,0 +1,10 @@
+.agents/
+.dart_tool/
+build/
+
+.idea/
+.vscode/
+
+*.log
+*.tmp
+.agents/
